@@ -4,4 +4,4 @@ This is the first JavaScript project I'm tackling as I learn web development thr
 
 ## Thoughts and Motivation
 
-To be honest, I've been struggling to get a good grasp of JavaScript. In the end, I figured it's best to attempt and solve this project, while troubleshooting along the way instead of trying to learn "everything" I can about the language to be in a false sense of comfort before taking it on. There's more learning that comes along and stick when you try to solve problems... right?
+To be honest, I've been struggling to get a good grasp of JavaScript. In the end, I figured it's best to attempt and solve this project, while troubleshooting along the way instead of trying to learn "everything" I can about the language to be in a false sense of comfort before taking it on. Learning tends to stick when you try to solve problems... right?
